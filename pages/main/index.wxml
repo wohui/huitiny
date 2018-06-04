@@ -1,0 +1,10 @@
+<!--pages/main/index.wxml-->
+<text>pages/main/index.wxml</text>
+<view class="container">
+  <view class="userinfo">    
+  </view>
+   <button type="primary"> 听一听 </button>
+  <view class="usermotto">
+    <text class="user-motto">{{userInfo.city}}</text>
+  </view>
+</view>
